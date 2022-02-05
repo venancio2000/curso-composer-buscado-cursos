@@ -1,0 +1,10 @@
+{
+    "name": "brunovenancio/buscardodecursos",
+    "description": "Projeto",
+    "autoload": {
+        "psr-4": {
+            "Brunovenancio\\Buscardodecursos\\": "src/"
+        }
+    },
+    "require": {}
+}
